@@ -34,7 +34,7 @@ Euler E460
 Peterson P362
 
 1. Transducer 1: Performs steps 1-3 of the algorithm, i.e, retaining the
-first letter, removing letters and replacing letters with numbers.
+first letter, removing letters and replacing letters with numbers
 2. Transducer 2: Performs step 4 of the algorithm, i.e., truncating extra
 digits.
 3. Transducer 3: Performs step 5 of the algorithm, i.e., padding with
